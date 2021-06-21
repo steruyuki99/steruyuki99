@@ -1,6 +1,6 @@
-### <h1 align="left"> Hi there 👋 My name is Teruyuki, it's nice to meet you| </h1>
+### <h1 align="left"> Hi there 👋 My name is Teruyuki, half of Japanese and Malay, it's nice to meet you| </h1>
 
-<h3 align="left">I am a student from University Technology Malaysia (UTM), </h3>
+<h3 align="left">I am student from Bachelor of Computer Science (Software Engineering) University Technology Malaysia (UTM), </h3>
 
 
  ### ⭐ GitHub Stats
