@@ -1,4 +1,4 @@
-### <h1 align="left"> Hi there 👋 My name is Teruyuki, it's nice to meet you </h1>
+### <h1 align="left"> Hi, My Name is Teruyuki 👋 </h1>
 
 <h3 align="left">I am student from Bachelor of Computer Science (Software Engineering) University Technology Malaysia (UTM), </h3>
 
