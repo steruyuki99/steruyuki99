@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Teruyuki, it's nice to meet you|
+
+I am a student from University Technology Malaysia (UTM), 
+
+
+ ### ⭐ GitHub Stats
+
+ <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=steruyuki99&count_private=true&show_icons=true&theme=default&line" alt="Nikunj Stats" width="420"/> 
+ </p>
 
 <!--
 **steruyuki99/steruyuki99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
