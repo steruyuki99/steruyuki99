@@ -1,6 +1,6 @@
-### <h1 align="left"> Hi, My Name is Teruyuki 👋 </h1>
+### <h1 align="center"> Hi, My Name is Teruyuki 👋 </h1>
 
-<h3 align="left">I am student from Bachelor of Computer Science (Software Engineering) University Technology Malaysia (UTM), </h3>
+<h3 align="center`">I am student from Bachelor of Computer Science (Software Engineering) University Technology Malaysia (UTM), </h3>
 	<br />
 	<br />
 
