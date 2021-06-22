@@ -12,9 +12,11 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steruyuki99&layout=compact&theme=dark" alt="top-langs" />
  </p>
-
-### Let's Connect :coffee:
+	<br/>
+<br />
 <p align="center">
+### Let's Connect :coffee:
+
 	<a href="https://github.com/steruyuki99"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhd-teruyuki-a5a9711a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
