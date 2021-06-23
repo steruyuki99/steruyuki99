@@ -6,11 +6,10 @@
 
  ###   <h3 align="center">  ⭐ GitHub Stats  </h3>
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=steruyuki99&count_private=true&show_icons=true&theme=dark&line" alt="Nikunj Stats" width="420"/> 
-	 <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steruyuki99&layout=compact&theme=dark" alt="top-langs" />
+ <p> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=steruyuki99&count_private=true&show_icons=true&theme=dark&line" alt="Nikunj Stats" width="420"/> 
+
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steruyuki99&layout=compact&theme=dark" alt="top-langs" />
  </p>
 	<br/>
 <br />
