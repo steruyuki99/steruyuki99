@@ -14,14 +14,15 @@
 	
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steruyuki99&layout=compact&theme=dark" alt="top-langs" />
  </p>
-	<br/>
+
 <br />
 
 ### <h3 align="left"> Let's Connect :coffee: </h3>
 
 <p align="left">
-	<a href="https://github.com/steruyuki99"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/muhd-teruyuki-a5a9711a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/steruyuki99" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/muhd-teruyuki-a5a9711a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 
