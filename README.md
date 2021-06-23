@@ -1,9 +1,11 @@
 ### <h1 align="center"> Hi, My Name is Teruyuki 👋 </h1>
 
-<h3 align="center`">I am student from Bachelor of Computer Science (Software Engineering) University Technology Malaysia (UTM), </h3>
-	<br />
-	<br />
 
+- 🔭 I’m currently studying at University at Malaysia
+- 🌱 I’m currently learning on Machine Learning and some web development (React.JS)
+- 😄 Pronouns: he/him
+
+<br/>
  ###   <h3 align="center">  ⭐ GitHub Stats  </h3>
 
  <p align="center"> 
