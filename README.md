@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently studying at University at Malaysia
 - 🌱 I’m currently learning on Machine Learning and some web development (React.JS)
+- 🥅 Current Goals: Create a lot of personal projects
 - 😄 Pronouns: he/him
 
 <br/>
