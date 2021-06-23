@@ -10,8 +10,7 @@
 
  <p align="left"> 
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=steruyuki99&count_private=true&show_icons=true&theme=dark&line" alt="Nikunj Stats" width="420"/> 
-	<br />
-	<br />
+
 	
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steruyuki99&layout=compact&theme=dark" alt="top-langs" />
  </p>
