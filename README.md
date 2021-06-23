@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi, My Name is Teruyuki 👋 </h1>
+### <h1 align="left"> Hi, My Name is Teruyuki 👋 </h1>
 
 
 - 🔭 I’m currently studying at University at Malaysia
@@ -6,9 +6,9 @@
 - 😄 Pronouns: he/him
 
 <br/>
- ###   <h3 align="center">  ⭐ GitHub Stats  </h3>
+ <h3 align="left">  ⭐ GitHub Stats  </h3>
 
- <p align="center"> 
+ <p align="left"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=steruyuki99&count_private=true&show_icons=true&theme=dark&line" alt="Nikunj Stats" width="420"/> 
 	<br />
 	<br />
@@ -18,9 +18,9 @@
 	<br/>
 <br />
 
-### <h3 align="center"> Let's Connect :coffee: </h3>
+### <h3 align="left"> Let's Connect :coffee: </h3>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/steruyuki99"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhd-teruyuki-a5a9711a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
