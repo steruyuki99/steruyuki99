@@ -1,10 +1,9 @@
 ### <h1 align="left"> Hi, My Name is Teruyuki 👋 </h1>
 
 
-- 🔭 I’m currently studying at University at Malaysia
+- 🔭 I’m currently working at Japanese Company in Malaysia
 - 🌱 I’m currently learning on Machine Learning and some web development (React.JS)
 - 🥅 Current Goals: Create a lot of personal projects
-- 😄 Pronouns: he/him
 
 <br/>
  <h3 align="left">  ⭐ GitHub Stats  </h3>
